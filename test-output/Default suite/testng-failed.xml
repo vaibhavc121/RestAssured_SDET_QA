@@ -5,8 +5,7 @@
     <classes>
       <class name="day2_WaysToCreatePostRequestBody.WaysToCreatePostRequestBody">
         <methods>
-          <include name="testDelete"/>
-          <include name="testPostUsingHashMap"/>
+          <include name="testPostUsingExternalJsonFile"/>
         </methods>
       </class> <!-- day2_WaysToCreatePostRequestBody.WaysToCreatePostRequestBody -->
     </classes>
